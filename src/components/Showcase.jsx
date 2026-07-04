@@ -46,7 +46,7 @@ const Showcase = () => {
                     <div className='space-y-5 mt-7 pe-10'>
                         <p>Introducing {" "}
                         <span className='text-white'>
-                            M4, the next generation of Apple Silico
+                            M4, the next generation of Apple Silicon
                         </span>
                         . M4 powers
                         </p>
