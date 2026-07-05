@@ -33,22 +33,29 @@ const Highlights = () => {
           </div>
           <div>
             <img src="/sun.png" alt="Sun" />
-            <p>A stunning <br /> Liquid Retina XDR <br /> display.</p>
+            <p>
+              A stunning <br /> 
+              Liquid Retina XDR <br /> 
+              display.
+            </p>
           </div>
         </div>
         
         <div className='right-column'>
           <div className='apple-gradient'>
             <img src="/ai.png" alt="AI" />
-            <p>Built for <br />  <span>Apple Intelligence.</span></p>
+            <p>
+              Built for <br />  
+              <span>Apple Intelligence.</span>
+            </p>
           </div>
           <div>
             <img src="/battery.png" alt="Battery" />
-            <p>Up to <span className='green-gradient'>{' '}14 more hours {' '}</span>
-            battery life.
-            <span className='text-dark-100'>
-              Up to 24 hours total.
-            </span>
+            <p>
+              Up to 
+              <span className='green-gradient'>{' '}14 more hours {' '}</span>
+              battery life.
+              <span className='text-dark-100'>Up to 24 hours total.</span>
             </p>
           </div>
         </div>
